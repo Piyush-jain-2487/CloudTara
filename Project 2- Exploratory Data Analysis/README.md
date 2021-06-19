@@ -1,14 +1,14 @@
 Pre-requisites:
-pandas - 
-seaborn
-matplotlib
-datetime
-sklearn
-  |-preprocessing
-  |-train_test_split
-  |-metrics
-  |-mean_squared_error
-  |-r2_score
+  1. pandas 
+  2. seaborn 
+  3. matplotlib 
+  4. datetime
+  5. sklearn:-
+      - preprocessing
+      - train_test_split
+      - metrics
+      - mean_squared_error
+      - r2_score
   
 Steps:-
   1. Read Data from CSV file using pandas.
